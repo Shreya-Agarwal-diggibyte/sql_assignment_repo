@@ -91,7 +91,7 @@ To compute the total salary paid to each department by extracting department nam
 |---------------|-----------|
 | id_deptname   | VARCHAR   |
 | emp_name      | VARCHAR   |
-| salary        | INT       |
+| salary        | INTEGER   |
  
 ## Tasks Performed
 - Created the `dept_tbl` table.
